@@ -77,9 +77,12 @@ while True:
         break
 
 # Release video capture and close windows
-```
-# Output:
 
 cap.release()
 cv2.destroyAllWindows()
- 
+```
+# Output:
+<img width="640" height="480" alt="detected_image_0" src="https://github.com/user-attachments/assets/f7ddb466-2ab0-4c3f-80fc-2bd7451e5f30" />
+
+ # Result:
+ Thus,object detection detection project runned and detected successfully.
